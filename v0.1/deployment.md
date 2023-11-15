@@ -64,7 +64,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrium
 | Axelar Adapter    | [0x6E9ce437c46e7fA4F0888c21AAC0d9099Ad133ea](https://optimistic.etherscan.io/address/0x6E9ce437c46e7fA4F0888c21AAC0d9099Ad133ea) |
 | Telepathy Adapter | [0x856dcc80f75a9737D9D498266E1Af013668316Fb](https://optimistic.etherscan.io/address/0x856dcc80f75a9737D9D498266E1Af013668316Fb) |
 
-#### Arbitrium
+#### Arbitrum
 
 | Contract          | Address                                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -102,7 +102,6 @@ By using domain=5 and blockNo a blockNumber that has been reported by the oracle
 | Hashi                  | Gnosis Chain | [0xf59aedc291e0aF64943541709cdd041D992b4De4](https://gnosisscan.io/address/0xf59aedc291e0aF64943541709cdd041D992b4De4)       |
 | ShoyuBashi             | Gnosis Chain | [0x31a8E89D6f98454D38C03eCA3DC543F6581d607C](https://gnosisscan.io/address/0x31a8e89d6f98454d38c03eca3dc543f6581d607c)       |
 | HeaderStorage          | Gnosis Chain | [0xB256d8a90852DBb222653ab89b611c2426011C0D](https://gnosisscan.io/address/0xB256d8a90852DBb222653ab89b611c2426011C0D)       |
-| AMB Header Reporter    | Gnosis Chain | [0x5DE3417a21eEd340836C9c1339913b60743b3470](https://gnosisscan.io/address/0x5DE3417a21eEd340836C9c1339913b60743b3470)       |
 | AMB Adapter            | Gnosis Chain | [0x32Cd442309cA6E79Db2194aac61024FBD2B14eb9](https://gnosisscan.io/address/0x32Cd442309cA6E79Db2194aac61024FBD2B14eb9)       |
 | AMB                    | Gnosis Chain | [0x9f696CF3c1a0A418cBBFD6E1ab3EBe8A78971Dea](https://gnosisscan.io/address/0x9f696CF3c1a0A418cBBFD6E1ab3EBe8A78971Dea)       |
 | Telepathy Adapter      | Gnosis Chain | [0x2f1E51a2763FB67fe09971Fd8d849716137A3357](https://gnosisscan.io/address/0x2f1E51a2763FB67fe09971Fd8d849716137A3357)       |
