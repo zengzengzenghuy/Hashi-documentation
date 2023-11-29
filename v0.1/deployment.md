@@ -25,6 +25,8 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | CelerHeaderReporter - Polygon         | [0x52258b83051B7031483740aC9EcAa07926392ea0](https://etherscan.io/address/0x52258b83051B7031483740aC9EcAa07926392ea0)      |
 | LayerZeroHeaderReporter - Avalanche   | [0x16B43E348e0A19E9196ae79D172aDC52B3Aa3E20](https://etherscan.io/address/0x16B43E348e0A19E9196ae79D172aDC52B3Aa3E20)      |
 | HyperlaneHeaderReporter - BNB Chain   | [0xA98748087c6a96c05704faF1bf08cAdB63Dd48c1](https://etherscan.io/address/0xA98748087c6a96c05704faF1bf08cAdB63Dd48c1)      |
+| CCIPHeaderReporter - Avalanche        | [0xeEFD0D67E4eF9330870961C38a3e25ECE369B141](https://etherscan.io/address/0xeEFD0D67E4eF9330870961C38a3e25ECE369B141)      |
+| SygmaHeaderReporter - Gnosis          | [0x4D72cA7132B9ED58D432cC6Ea2f3cBcDffE9278f](https://etherscan.io/address/0x4D72cA7132B9ED58D432cC6Ea2f3cBcDffE9278f)      |
 
 #### Gnosis Chain
 
@@ -40,6 +42,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | WormholeAdapter - Header Report | [0x8EA3F385be8FCB98eB4dBfad2D00846860Bf648D](https://gnosisscan.io/address/0x8EA3F385be8FCB98eB4dBfad2D00846860Bf648D)              |
 | WormholeAdapter - Message Relay | [0xeD0483078dac22AB01aDb40eb35ED354901Bc181](https://gnosisscan.io/address/0xed0483078dac22ab01adb40eb35ed354901bc181)              |
 | ConnextAdapter - Header Report  | [0x33769bD29c8982CDE01357A1Db7d5029a68E7786](https://bscscan.com/address/0x33769bD29c8982CDE01357A1Db7d5029a68E7786)                |
+| SygmaAdapter - Header Report    | [0xb7aD413f9196bcAEc69440B3C18ab3c0da644e1c](https://gnosisscan.io/address/0xb7aD413f9196bcAEc69440B3C18ab3c0da644e1c)              |
 
 #### Polygon
 
@@ -67,6 +70,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | WormholeAdapter - Header Report  | [0x11378C54aA4e2Daf4603f9be86ae0Cb70786682a](https://bscscan.com/address/0x11378C54aA4e2Daf4603f9be86ae0Cb70786682a) |
 | WormholeAdapter - Message Relay  | [0x04413A4795dD1f5347eAD1CD7C76Bd9E5e48b461](https://bscscan.com/address/0x04413A4795dD1f5347eAD1CD7C76Bd9E5e48b461) |
 | HyperlaneAdapter - Header Report | [0x520185210Aa645220a49afD9C33d28b73494e14d](https://bscscan.com/address/0x520185210Aa645220a49afD9C33d28b73494e14d) |
+| LayerZeroAdapter- Header Report  | [0xaC3c8D19A64B98d62ED16FFf8a4229E8ED36A469](https://bscscan.com/address/0xaC3c8D19A64B98d62ED16FFf8a4229E8ED36A469) |
 
 #### Optimism
 
@@ -105,6 +109,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | WormholeAdapter - Header Report  | [0x6E9ce437c46e7fA4F0888c21AAC0d9099Ad133ea](https://snowtrace.io/address/0x6E9ce437c46e7fA4F0888c21AAC0d9099Ad133ea)                 |
 | WormholeAdapter - Message Relay  | [0x856dcc80f75a9737D9D498266E1Af013668316Fb](https://snowtrace.io/address/0x856dcc80f75a9737D9D498266E1Af013668316Fb)                 |
 | LayerZeroAdapter - Header Report | [0x11378C54aA4e2Daf4603f9be86ae0Cb70786682a](https://subnets.avax.network/c-chain/address/0x11378C54aA4e2Daf4603f9be86ae0Cb70786682a) |
+| CCIPAdapter - Header Report      | [0x04413A4795dD1f5347eAD1CD7C76Bd9E5e48b461](https://subnets.avax.network/c-chain/address/0x04413A4795dD1f5347eAD1CD7C76Bd9E5e48b461) |
 
 ### Testnet
 
