@@ -18,16 +18,18 @@ Existing oracle adapters:
 
 * [Telepathy ZK light client](https://docs.telepathy.xyz/)
 * [Dendreth ZK light client](https://github.com/metacraft-labs/DendrETH)
-* Gnosis AMB bridge
+* [Gnosis AMB bridge](https://docs.gnosischain.com/bridges/tokenbridge/amb-bridge)
 * [Sygma protocol](https://medium.com/buildwithsygma)
-* [Wormhole](https://wormhole.com/)
-* [Axelar](https://axelar.network/)
-
-In progress:
-
-* [Celer](https://cbridge-docs.celer.network/)
+* [Celer](https://cbridge.celer.network/1/100/SOS)
 * [LayerZero](https://layerzero.network/)
-* [Multichain](https://multichain.xyz/)
+* [Chainlink CCIP](https://docs.chain.link/ccip)
+* [Connext](https://www.connext.network/)
+* [Hyperlane](https://www.hyperlane.xyz/)
+* [Optimism bridge](https://app.optimism.io/bridge/deposit)
+* [Wormhole](https://docs.wormhole.com/wormhole/)
+* [Zetachain](https://www.zetachain.com/)
+
+
 
 
 
@@ -35,5 +37,3 @@ In progress:
 
 * Repository: [github.com/gnosis/hashi](https://github.com/gnosis/hashi)
 * Intro discussion: [ethresear.ch/t/hashi-a-principled-approach-to-bridges](https://ethresear.ch/t/hashi-a-principled-approach-to-bridges/14725)
-* Intro thread: [twitter.com/auryn\_macmillan/status/1632696493525323778](https://twitter.com/auryn\_macmillan/status/1632696493525323778?s=20)
-* Ask questions on the [Gnosis Chain discord](https://discord.gg/gnosischain) - #hashi channel
