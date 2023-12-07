@@ -41,7 +41,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | TelepathyAdapter                | [0xDeF29f44f8315d0079A25EF03cfB0b0D8CdA3cF8](https://gnosisscan.io/address/0xDeF29f44f8315d0079A25EF03cfB0b0D8CdA3cF8)              |
 | WormholeAdapter - Header Report | [0x8EA3F385be8FCB98eB4dBfad2D00846860Bf648D](https://gnosisscan.io/address/0x8EA3F385be8FCB98eB4dBfad2D00846860Bf648D)              |
 | WormholeAdapter - Message Relay | [0xeD0483078dac22AB01aDb40eb35ED354901Bc181](https://gnosisscan.io/address/0xed0483078dac22ab01adb40eb35ed354901bc181)              |
-| ConnextAdapter - Header Report  | [0x33769bD29c8982CDE01357A1Db7d5029a68E7786](https://bscscan.com/address/0x33769bD29c8982CDE01357A1Db7d5029a68E7786)                |
+| ConnextAdapter - Header Report  | [0x33769bD29c8982CDE01357A1Db7d5029a68E7786](https://gnosisscan.io/address/0x33769bD29c8982CDE01357A1Db7d5029a68E7786)              |
 | SygmaAdapter - Header Report    | [0x483285D0e24401D0C5DB6cF1FAC4f79f412079C0](https://gnosisscan.io/address/0x483285D0e24401D0C5DB6cF1FAC4f79f412079C0)              |
 
 #### Polygon
