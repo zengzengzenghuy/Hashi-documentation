@@ -93,7 +93,7 @@ After the message is relayed to Gnosis Chain by AMB bridge, you can proceed to c
 
 1. Call `Yaru.executeMessages([message],[messageId],[Safe_from_Goerli or EOA from Goerli that calls Yaho],[AMB_Adapter_Address on Gnosis Chain])`
 
-### Implement your hook
+#### Implement your hook
 
 For a successful message execution to happen, the contract specified as message recipient on the destination chain must implement a hook to process correctly the `message.data`. The hook must revert unless the `msg.sender` matches the expected `Yaru` contract, `Yaru.sender()` matches the expected sender, and `Yaru.adapters()` matches the desired set of oracles that must have agreed on the reported hash.
 
