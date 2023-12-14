@@ -35,7 +35,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | Hashi                           | [0xa797D1dd4FF095577A70433f5d00D2345c9Ee0C5](https://gnosisscan.io/address/0xa797D1dd4FF095577A70433f5d00D2345c9Ee0C5#readContract) |
 | ShoyuBashi                      | [0x06C33b0119642824Ba2D6a02fdDBa8FA6318fF32](https://gnosisscan.io/address/0x06C33b0119642824Ba2D6a02fdDBa8FA6318fF32#readContract) |
 | GiriGiriBashi                   | [0x1b9CaFa940303CA46408a9b9b924F67F8DB84213](https://gnosisscan.io/address/0x1b9CaFa940303CA46408a9b9b924F67F8DB84213#readContract) |
-| Yaru                            | [0x1EeAe28cF55ea2FFbaa5498C86a112831495Bf62](https://gnosisscan.io/address/0x1EeAe28cF55ea2FFbaa5498C86a112831495Bf62#readContract) |
+| Yaru - Mainnet                  | [0x8eA6d4A45A7c56A7BA63f20679426FfE06543954](https://gnosisscan.io/address/0x8eA6d4A45A7c56A7BA63f20679426FfE06543954)              |
 | AMB Adapter - Header Report     | [0x4efB95c26bB2ebD3281749A5eAA388bc302b4445](https://gnosisscan.io/address/0x4efB95c26bB2ebD3281749A5eAA388bc302b4445#code)         |
 | AMB Adapter - Message Relay     | [0x4dD1EFf3047DFD9F0a4ED9864263c818374A9b98](https://gnosisscan.io/address/0x4dD1EFf3047DFD9F0a4ED9864263c818374A9b98#readContract) |
 | TelepathyAdapter                | [0xDeF29f44f8315d0079A25EF03cfB0b0D8CdA3cF8](https://gnosisscan.io/address/0xDeF29f44f8315d0079A25EF03cfB0b0D8CdA3cF8)              |
@@ -50,7 +50,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | ShoyuBashi                       | [0xcF7E187Ed1090B9CE8E4a7266B5309d839E85648](https://polygonscan.com/address/0xcF7E187Ed1090B9CE8E4a7266B5309d839E85648)      |
 | GiriGiriBashi                    | [0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831](https://polygonscan.com/address/0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831)      |
-| Yaru                             | [0x856dcc80f75a9737D9D498266E1Af013668316Fb](https://polygonscan.com/address/0x856dcc80f75a9737D9D498266E1Af013668316Fb)      |
+| Yaru - Mainnet                   | [0xaC3c8D19A64B98d62ED16FFf8a4229E8ED36A469](https://polygonscan.com/address/0xaC3c8D19A64B98d62ED16FFf8a4229E8ED36A469)      |
 | TelepathyAdapter                 | [0x04413A4795dD1f5347eAD1CD7C76Bd9E5e48b461](https://polygonscan.com/address/0x04413A4795dD1f5347eAD1CD7C76Bd9E5e48b461)      |
 | Axelar Adapter                   | [0x4694E10017Ed7E0E87bfE386e5f051a7C64286A2](https://polygonscan.com/address/0x4694E10017Ed7E0E87bfE386e5f051a7C64286A2)      |
 | WormholeAdapter - Header Report  | [0xb7806ea66c1bb9FfeB41Dc303601a469ddf3b9C2](https://polygonscan.com/address/0xb7806ea66c1bb9FfeB41Dc303601a469ddf3b9C2)      |
@@ -64,7 +64,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | Hashi                            | [0xab6f51b61AdF8B542a569E94e1cAA233DD216862](https://bscscan.com/address/0xab6f51b61AdF8B542a569E94e1cAA233DD216862) |
 | ShoyuBashi                       | [0x22F1fc71A505c0b2bf4D5075801cc5E0ec84B09e](https://bscscan.com/address/0x22F1fc71A505c0b2bf4D5075801cc5E0ec84B09e) |
 | GiriGiriBashi                    | [0xcF7E187Ed1090B9CE8E4a7266B5309d839E85648](https://bscscan.com/address/0xcF7E187Ed1090B9CE8E4a7266B5309d839E85648) |
-| Yaru                             | [0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831](https://bscscan.com/address/0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831) |
+| Yaru - Mainnet                   | [0xB6133Ab655B990E80Af3E948852C8ec2a46651A5](https://bscscan.com/address/0xB6133Ab655B990E80Af3E948852C8ec2a46651A5) |
 | TelepathyAdapter                 | [0x2E5685F20f42cC3b01e4A9ADE49F6848E242f022](https://bscscan.com/address/0x2E5685F20f42cC3b01e4A9ADE49F6848E242f022) |
 | Axelar Adapter - Header Report   | [0x856dcc80f75a9737D9D498266E1Af013668316Fb](https://bscscan.com/address/0x856dcc80f75a9737D9D498266E1Af013668316Fb) |
 | WormholeAdapter - Header Report  | [0x11378C54aA4e2Daf4603f9be86ae0Cb70786682a](https://bscscan.com/address/0x11378C54aA4e2Daf4603f9be86ae0Cb70786682a) |
@@ -79,7 +79,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | Hashi                                         | [0x22F1fc71A505c0b2bf4D5075801cc5E0ec84B09e](https://optimistic.etherscan.io/address/0x22F1fc71A505c0b2bf4D5075801cc5E0ec84B09e) |
 | ShoyuBashi                                    | [0xcF7E187Ed1090B9CE8E4a7266B5309d839E85648](https://optimistic.etherscan.io/address/0xcF7E187Ed1090B9CE8E4a7266B5309d839E85648) |
 | GiriGiriBashi                                 | [0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831](https://optimistic.etherscan.io/address/0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831) |
-| Yaru                                          | [0x2E5685F20f42cC3b01e4A9ADE49F6848E242f022](https://optimistic.etherscan.io/address/0x2E5685F20f42cC3b01e4A9ADE49F6848E242f022) |
+| Yaru - Mainnet                                | [0xD031Fb9867ACB83C8d0013B4be102EC070Fd34A7](https://optimistic.etherscan.io/address/0xD031Fb9867ACB83C8d0013B4be102EC070Fd34A7) |
 | TelepathyAdapter                              | [0x856dcc80f75a9737D9D498266E1Af013668316Fb](https://optimistic.etherscan.io/address/0x856dcc80f75a9737D9D498266E1Af013668316Fb) |
 | Axelar Adapter                                | [0x6E9ce437c46e7fA4F0888c21AAC0d9099Ad133ea](https://optimistic.etherscan.io/address/0x6E9ce437c46e7fA4F0888c21AAC0d9099Ad133ea) |
 | WormholeAdapter - Header Report               | [0x1fF52708D610b1D17F0830f036e992677CDc508A](https://optimistic.etherscan.io/address/0x1fF52708D610b1D17F0830f036e992677CDc508A) |
@@ -94,7 +94,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | Hashi             | [0xab6f51b61AdF8B542a569E94e1cAA233DD216862](https://arbiscan.io/address/0xab6f51b61AdF8B542a569E94e1cAA233DD216862) |
 | ShoyuBashi        | [0x22F1fc71A505c0b2bf4D5075801cc5E0ec84B09e](https://arbiscan.io/address/0x22F1fc71A505c0b2bf4D5075801cc5E0ec84B09e) |
 | GiriGiriBashi     | [0xcF7E187Ed1090B9CE8E4a7266B5309d839E85648](https://arbiscan.io/address/0xcF7E187Ed1090B9CE8E4a7266B5309d839E85648) |
-| Yaru              | [0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831](https://arbiscan.io/address/0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831) |
+| Yaru - Mainnet    | [0x856dcc80f75a9737D9D498266E1Af013668316Fb](https://arbiscan.io/address/0x856dcc80f75a9737D9D498266E1Af013668316Fb) |
 | Axelar Adapter    | [0x6E9ce437c46e7fA4F0888c21AAC0d9099Ad133ea](https://arbiscan.io/address/0x6E9ce437c46e7fA4F0888c21AAC0d9099Ad133ea) |
 | Telepathy Adapter | [0x2E5685F20f42cC3b01e4A9ADE49F6848E242f022](https://arbiscan.io/address/0x2E5685F20f42cC3b01e4A9ADE49F6848E242f022) |
 
@@ -105,7 +105,7 @@ Destination Chain: Gnosis Chain, Polygon, BNB Chain, Optimism, Arbitrum, Avalanc
 | Hashi                            | [0xab6f51b61AdF8B542a569E94e1cAA233DD216862](https://snowtrace.io/address/0xab6f51b61AdF8B542a569E94e1cAA233DD216862#code)            |
 | ShoyuBashi                       | [0x22F1fc71A505c0b2bf4D5075801cc5E0ec84B09e](https://snowtrace.io/address/0x22F1fc71A505c0b2bf4D5075801cc5E0ec84B09e)                 |
 | GiriGiriBashi                    | [0x2E5685F20f42cC3b01e4A9ADE49F6848E242f022](https://snowtrace.io/address/0x2E5685F20f42cC3b01e4A9ADE49F6848E242f022)                 |
-| Yaru                             | [0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831](https://snowtrace.io/address/0x6be796cb66CdB3566b8AbebA2C516CbDF93fE831)                 |
+| Yaru - Mainnet                   | [0x4694E10017Ed7E0E87bfE386e5f051a7C64286A2](https://snowtrace.io/address/0x4694E10017Ed7E0E87bfE386e5f051a7C64286A2)                 |
 | WormholeAdapter - Header Report  | [0x6E9ce437c46e7fA4F0888c21AAC0d9099Ad133ea](https://snowtrace.io/address/0x6E9ce437c46e7fA4F0888c21AAC0d9099Ad133ea)                 |
 | WormholeAdapter - Message Relay  | [0x856dcc80f75a9737D9D498266E1Af013668316Fb](https://snowtrace.io/address/0x856dcc80f75a9737D9D498266E1Af013668316Fb)                 |
 | LayerZeroAdapter - Header Report | [0x11378C54aA4e2Daf4603f9be86ae0Cb70786682a](https://subnets.avax.network/c-chain/address/0x11378C54aA4e2Daf4603f9be86ae0Cb70786682a) |
@@ -176,7 +176,7 @@ For the current deployment, only AMB and Telepathy oracles are supported.
 | **Contract**                     | **Address**                                                                                                                       |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Hashi                            | [0x22F1fc71A505c0b2bf4D5075801cc5E0ec84B09e](https://testnet.bscscan.com/address/0x22F1fc71A505c0b2bf4D5075801cc5E0ec84B09e#code) |
-| Yaru - Goerli                    | [0x1fF52708D610b1D17F0830f036e992677CDc508A](https://testnet.bscscan.com/address/0x1fF52708D610b1D17F0830f036e992677CDc508A)      |
+| Yaru - Goerli                    | [0xD031Fb9867ACB83C8d0013B4be102EC070Fd34A7](https://testnet.bscscan.com/address/0xD031Fb9867ACB83C8d0013B4be102EC070Fd34A7)      |
 | WormholeAdapter - HeaderReporter | [0xE64902307d04C377B6D8D428D99153881eD7E705](https://testnet.bscscan.com/address/0xE64902307d04C377B6D8D428D99153881eD7E705)      |
 | WormholeAdapter - MessageRelay   | [0x520185210Aa645220a49afD9C33d28b73494e14d](https://testnet.bscscan.com/address/0x520185210Aa645220a49afD9C33d28b73494e14d)      |
 
