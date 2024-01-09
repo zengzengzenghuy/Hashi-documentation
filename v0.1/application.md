@@ -1,14 +1,24 @@
 # Application
 
-## Application
+## Safe Junction with xERC20&#x20;
 
-You can build your application on top of Hashi and secured by Hashi. If you have any question, please reach out to [Gnosis Chain discord](https://discord.gg/gnosischain) - #hashi channel
+<figure><img src="../.gitbook/assets/diagram.png" alt=""><figcaption><p>Hashi with Safe Junction &#x26; xERC20</p></figcaption></figure>
 
-{% hint style="info" %}
-The applications below is only for demo purpose.
-{% endhint %}
+#### How it works
 
-### Safe on Hashi
+1. **Deploy xERC20 Contracts**: Start by deploying xERC20 contracts as outlined in the [xERC20 documentation](https://docs.connext.network/usecases/xerc20).
+2. **Obtain xERC20 Token**: For a specific token, acquire the corresponding xERC20 token on the native chain by locking the native token in the xERC20 Lockbox.
+3. **Use SJRouter for Cross-Chain Actions**: Leverage SJRouter contracts and their `xTransfer` function for cross-chain minting/burning. This function burns the chosen amount of tokens and uses Hashi to send a cross-chain message containing all necessary parameters for calculating the xERC20 token address on the destination chain.
+4. **Message Dispatch Through Hashi**: Hashi dispatches the message to all the selected adapters.
+5. **Message Processing by Bridges**: Each bridge involved processes the message and stores the message hash in their respective adapters.
+6. **Execution of Hashi Message**: After all bridges have processed the message, Hashi executes the message.
+7. **Final Minting Process**: Once the message is executed, the host SJRouter trustlessly calculates the xERC20 token address and proceeds to mint the designated quantity of xERC20 tokens. Additionally, there's a provision where a Market Maker might offer an advance on the tokens to the user, for a fee. This service is particularly useful for users who prefer immediate token access, bypassing the waiting period required for all bridges to process the message.
+
+#### Reference
+
+1. [crosschain-alliance/sj-core-contracts](https://github.com/crosschain-alliance/sj-core-contracts?tab=readme-ov-file)
+
+## Safe on Hashi
 
 Cross-chain transaction using Safe can be a painful experience. The current approach is to set up Safe individually on each chain, and these Safes are independent of each other. There are [discussions](https://forum.safe.global/t/how-can-a-safe-hold-asset-on-multiple-chains/2242) about how to hold assets on multiple chains and this project aims to tackle the issue by leveraging the security provided by Hashi. In this project, two kinds of approaches are demonstrated: Push and Pull flow.
 
@@ -30,13 +40,13 @@ In pull flow, data is being read from time to time on the source chain (Goerli).
 
 1. [Safe on Hashi App](https://github.com/zengzengzenghuy/Safe-on-Hashi-App)
 
-### Adapters Dashboard
+## Adapters Dashboard
 
 The adapters dashboard shows the latest Goerli block numbers that the respective block hashes has been stored by Hashi adapters on Gnosis Chain. Once the threshold has been reached (2 out of 4 adapters has stored the same block hash), the block hash is considered valid.
 
 {% embed url="https://hashiadapters-dashboard-tvw47.ondigitalocean.app/" %}
 
-### Message Dispatching using Yaho and Yaru
+## Message Dispatching using Yaho and Yaru
 
 For relaying message between Ethereum/Goerli and Gnosis Chain, several contracts need to be deployed on top of the [current AMB deployments](https://docs.gnosischain.com/bridges/hashi/#goerli---gnosis-chain): Yaho, Yaru, AMB Message Relay, AMB Adapter, and Hashi. The addresses from this article are for Goerli <-> Gnosis Chain.
 

@@ -35,5 +35,6 @@ Existing oracle adapters:
 
 ### Resources
 
+* Cross Chain Alliance: [https://github.com/crosschain-alliance](https://github.com/crosschain-alliance)
 * Repository: [github.com/gnosis/hashi](https://github.com/gnosis/hashi)
 * Intro discussion: [ethresear.ch/t/hashi-a-principled-approach-to-bridges](https://ethresear.ch/t/hashi-a-principled-approach-to-bridges/14725)
