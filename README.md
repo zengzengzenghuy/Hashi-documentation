@@ -8,7 +8,7 @@ The primary insight being that the vast majority of bridge-related security inci
 
 Hashi aims to create “additive security” to cross-chain messages by aggregating block headers from different sources. A block header will be considered valid only when a number of block sources (oracles) above a certain threshold report the same result. Hashi is the first step towards a principled approached to bridges and will play a key role in the Gnosis Chain interoperability roadmap.
 
-Apart from block header, Hashi also provides arbitrary message relaying option. Check out [Message Dispatching with Yaho and Yaru ](v0.1/application.md)for more details.
+Apart from block header, Hashi also provides arbitrary message relaying option. Check out [Message Dispatching with Yaho and Yaru ](v0.1/application/)for more details.
 
 ### Oracles
 
