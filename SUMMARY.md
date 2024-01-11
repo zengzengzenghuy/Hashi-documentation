@@ -6,7 +6,7 @@
 * [Deployment](v0.1/deployment.md)
 * [Application](v0.1/application/README.md)
   * [Safe Junction with xERC20](v0.1/application/safe-junction-with-xerc20.md)
-  * [Safe on Hashi](v0.1/application/safe-on-hashi.md)
+  * [Safe with Hashi](v0.1/application/safe-with-hashi.md)
 * [Tutorial](v0.1/tutorial/README.md)
   * [Message Dispatching using Yaru and Yaho](v0.1/tutorial/message-dispatching-using-yaru-and-yaho.md)
   * [Create a new adapter](v0.1/tutorial/create-a-new-adapter.md)
