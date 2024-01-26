@@ -19,4 +19,4 @@ Safe with Hashi is a mechanism crafted to empower users with the ability to cont
 
 ### Reference
 
-1. [**https://github.com/crosschain-alliance/safe-crosschain/tree/**](https://github.com/crosschain-alliance/safe-crosschain/tree/)
+1. [https://github.com/crosschain-alliance/safe-crosschain](https://github.com/crosschain-alliance/safe-crosschain)
